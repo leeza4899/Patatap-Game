@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0; 
+	max-height: 100%;
+	max-width: 100%;
+}
+canvas{
+	width: 100%;
+	background-color: black;
+}
+
+
+body,html{
+	margin: 0;
+	height: 100%;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+}
